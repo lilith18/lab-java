@@ -1,4 +1,4 @@
-package com.udemy.deque;
+package com.covent.deque;
 
 public class MainDeque {
 

@@ -1,4 +1,4 @@
-package com.udemy.forEachLoop;
+package com.covent.forEachLoop;
 
 import java.util.ArrayList;
 import java.util.Iterator;

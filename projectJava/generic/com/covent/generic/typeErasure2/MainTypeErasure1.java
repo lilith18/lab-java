@@ -1,4 +1,4 @@
-package com.udemy.generic.typeErasure2;
+package com.covent.generic.typeErasure2;
 
 import java.io.Serializable;
 

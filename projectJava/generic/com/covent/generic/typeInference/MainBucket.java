@@ -1,4 +1,4 @@
-package com.udemy.generic.typeInference;
+package com.covent.generic.typeInference;
 
 import java.util.ArrayList;
 import java.util.List;

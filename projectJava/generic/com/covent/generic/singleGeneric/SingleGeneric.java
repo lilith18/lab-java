@@ -1,4 +1,4 @@
-package com.udemy.generic.singleGeneric;
+package com.covent.generic.singleGeneric;
 
 public class SingleGeneric<T> {
 	

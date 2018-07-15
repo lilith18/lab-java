@@ -1,4 +1,4 @@
-package com.udemy.queue.ordinaryQueue;
+package com.covent.queue.ordinaryQueue;
 
 import java.util.LinkedList;
 import java.util.Queue;

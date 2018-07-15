@@ -1,4 +1,4 @@
-package com.udemy.list.arrayList;
+package com.covent.list.arrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

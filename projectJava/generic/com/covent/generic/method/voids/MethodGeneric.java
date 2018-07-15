@@ -1,4 +1,4 @@
-package com.udemy.generic.method.voids;
+package com.covent.generic.method.voids;
 
 public class MethodGeneric {
 	

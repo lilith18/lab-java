@@ -1,4 +1,4 @@
-package com.udemy.generic.lowerBoundedWildcards;
+package com.covent.generic.lowerBoundedWildcards;
 
 import java.io.Serializable;
 import java.util.ArrayList;

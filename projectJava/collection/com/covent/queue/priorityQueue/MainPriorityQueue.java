@@ -1,4 +1,4 @@
-package com.udemy.queue.priorityQueue;
+package com.covent.queue.priorityQueue;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

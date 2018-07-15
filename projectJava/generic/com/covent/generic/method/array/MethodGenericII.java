@@ -1,4 +1,4 @@
-package com.udemy.generic.method.array;
+package com.covent.generic.method.array;
 
 public class MethodGenericII {
 	

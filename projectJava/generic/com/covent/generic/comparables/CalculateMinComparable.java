@@ -1,4 +1,4 @@
-package com.udemy.generic.comparables;
+package com.covent.generic.comparables;
 
 public class CalculateMinComparable {
 

@@ -1,4 +1,4 @@
-package com.udemy.list.stack;
+package com.covent.list.stack;
 
 import java.util.Stack;
 

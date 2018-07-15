@@ -1,4 +1,4 @@
-package com.udemy.generic.upperBoundWildcards;
+package com.covent.generic.upperBoundWildcards;
 
 import java.util.Arrays;
 import java.util.List;

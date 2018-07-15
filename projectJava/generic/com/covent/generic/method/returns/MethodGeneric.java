@@ -1,4 +1,4 @@
-package com.udemy.generic.method.returns;
+package com.covent.generic.method.returns;
 
 public class MethodGeneric {
 	

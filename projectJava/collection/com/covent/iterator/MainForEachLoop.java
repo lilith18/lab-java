@@ -1,4 +1,4 @@
-package com.udemy.iterator;
+package com.covent.iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

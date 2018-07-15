@@ -1,4 +1,4 @@
-package com.udemy.generic.unBoundedWilcards;
+package com.covent.generic.unBoundedWilcards;
 
 public class MainUnBoundedWilcards {
 

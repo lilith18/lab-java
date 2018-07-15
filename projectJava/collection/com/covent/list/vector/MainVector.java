@@ -1,4 +1,4 @@
-package com.udemy.list.vector;
+package com.covent.list.vector;
 
 import java.util.List;
 import java.util.Vector;

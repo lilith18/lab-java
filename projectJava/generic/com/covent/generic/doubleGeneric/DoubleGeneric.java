@@ -1,4 +1,4 @@
-package com.udemy.generic.doubleGeneric;
+package com.covent.generic.doubleGeneric;
 
 public class DoubleGeneric<K,V> {
 	

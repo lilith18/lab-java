@@ -1,4 +1,4 @@
-package com.udemy.generic.typeErasure1;
+package com.covent.generic.typeErasure1;
 
 //class Store<T> {
 //	

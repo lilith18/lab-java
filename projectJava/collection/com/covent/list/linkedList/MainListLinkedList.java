@@ -1,4 +1,4 @@
-package com.udemy.list.linkedList;
+package com.covent.list.linkedList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

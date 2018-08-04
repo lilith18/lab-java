@@ -3,6 +3,7 @@ package com.covent.generic.comparables;
 public class CalculateMinComparable {
 
 	/* CalculateMinComparable
+	 * 
 	 * String implements Comparable interface
 	 * and Serializable
 	 * and CharSequence
